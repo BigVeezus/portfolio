@@ -21,7 +21,7 @@ const Home = () => {
               options={{
                 strings: [
                   "I`m a Software Engineer/Full-Stack Javascript Developer who is currently working on building simple projects using Front-end and Backend tools",
-                  "I`m also a strong problem-solver who understands the principles of computer science, such as algorithms and data structures.",
+                  "I am also a results-driven developer who understands the principles of computer science, such as algorithms and data structures.",
                   "I love watching Sports - Football & Basketball during my free time, and I also enjoy listening to music and playing video games.",
                 ],
                 autoStart: true,

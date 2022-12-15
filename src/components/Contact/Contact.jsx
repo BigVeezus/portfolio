@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div className="contact">
       <div className="heading">
-        <p className="text">SEND ME AN EMAIL</p>
+        <p className="text">Send a mail, Let's work.</p>
         <div className="icon">
           <a href="mailto:elvis.osujic@gmail.com">
             <SiGmail />

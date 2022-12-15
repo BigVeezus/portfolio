@@ -46,6 +46,7 @@
       @media (max-width: 767px) {
         font-size: 1.5rem;
         text-align: center;
+        margin-top: 15px;
       }
     }
     .name {
@@ -58,7 +59,7 @@
       @media (max-width: 767px) {
         font-size: 3rem;
         text-align: center;
-        margin-top: 1rem;
+        margin-top: 0.4rem;
       }
     }
     .subText {
@@ -118,15 +119,14 @@
       justify-content: space-around;
       animation: social 0.5s ease-in 1.6s forwards;
       text-decoration: none;
-      color: #fff;
       width: 9rem;
-      height: 4rem;
+      height: 3rem;
       font-size: 1.5rem;
       margin-top: -0.5rem;
       margin-left: -0.5rem;
       @media (max-width: 767px) {
         width: 100%;
-        margin-left: 0rem;
+        margin-left: 0.8rem;
         justify-content: center;
       }
       a:nth-child(1) {
@@ -148,8 +148,8 @@
       }
       a:hover {
         cursor: pointer;
-        color: rgb(18, 91, 247);
         transform: translateY(-15%);
+        color: rgb(40, 140, 234);
       }
     }
     .scrollDown {
@@ -165,6 +165,7 @@
         align-self: center;
         justify-self: center;
         left: 45%;
+        top: 92%;
       }
       @media (max-width: 812px) and (orientation: landscape) {
         display: none;
