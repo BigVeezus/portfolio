@@ -70,12 +70,13 @@
       @media (min-width: 768px) {
         margin-top: 1.25rem;
       }
-      font-size: 1.25rem;
+      font-size: 1.4rem;
       color: rgb(182, 182, 182);
       line-height: 1.5;
       @media (max-width: 767px) {
         text-align: center;
         margin-top: 0.5rem;
+        font-size: 1.1rem;
       }
 
       span {
@@ -165,7 +166,7 @@
         align-self: center;
         justify-self: center;
         left: 45%;
-        top: 92%;
+        top: 95%;
       }
       @media (max-width: 812px) and (orientation: landscape) {
         display: none;
