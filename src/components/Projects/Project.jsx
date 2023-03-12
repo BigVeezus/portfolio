@@ -21,7 +21,7 @@ const Project = () => {
             </a>
           </div>
           <div className="live">
-            <a href="/">*View live project* </a>
+            <a href="/">View live project </a>
           </div>
         </div>
         <div className="project">
@@ -34,12 +34,12 @@ const Project = () => {
             authentication.
           </p>
           <div className="icons">
-            <a href="https://github.com/vicodevv/Student-API">
+            <a href="https://github.com/BigVeezus/amazon-clone-react.git">
               <SiGithub />
             </a>
           </div>
           <div className="live">
-            <a href="/">*View live project* </a>
+            <a href="https://elvisshop.netlify.app">View live project </a>
           </div>
         </div>
         <div className="project">
@@ -56,7 +56,9 @@ const Project = () => {
             </a>
           </div>
           <div className="live">
-            <a href="/">*View live project* </a>
+            <a href="https://inquisitive-babka-18692d.netlify.app">
+              View live project{" "}
+            </a>
           </div>
         </div>
         <div className="project">
@@ -74,7 +76,9 @@ const Project = () => {
             </a>
           </div>
           <div className="live">
-            <a href="/">*View live project* </a>
+            <a href="http://phpsite.infinityfreeapp.com/login_form.php?i=1">
+              View live project{" "}
+            </a>
           </div>
         </div>
         <div className="project">
