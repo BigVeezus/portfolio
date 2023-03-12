@@ -42,7 +42,7 @@
       justify-content: space-evenly;
       margin: 1rem;
       padding: 1rem;
-      height: 12rem;
+      height: 12.5rem;
       width: 100%;
       max-width: 20rem;
       border-radius: 4px;
@@ -54,7 +54,7 @@
         width: 75%;
       }
       a {
-        color: #000;
+        color: rgb(2, 85, 57);
         text-decoration: none;
         font-size: 1.2rem;
         font-weight: 600;
@@ -72,6 +72,14 @@
         font-weight: normal;
         margin-top: 0.5rem;
         color: gray;
+      }
+      .live {
+        margin-left: auto;
+        margin-bottom: 10px;
+
+        font-size: 1.1rem !important;
+        font-weight: normal !important;
+        color: red !important;
       }
     }
   }

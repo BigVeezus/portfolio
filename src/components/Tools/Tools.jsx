@@ -10,6 +10,12 @@ import typescript from "../../assets/typescript.png";
 import java from "../../assets/java.png";
 import postman from "../../assets/postman.png";
 import github from "../../assets/github.png";
+import docker from "../../assets/docker.jpeg";
+import nest from "../../assets/nest.png";
+import aws from "../../assets/aws.png";
+import kubernetes from "../../assets/kubernetes.png";
+import mysql from "../../assets/mySQL.png";
+import php from "../../assets/php.png";
 
 import "./Tools.scss";
 
@@ -27,6 +33,12 @@ const Tools = () => {
     java,
     postman,
     github,
+    docker,
+    nest,
+    aws,
+    kubernetes,
+    mysql,
+    php,
   ];
 
   return (

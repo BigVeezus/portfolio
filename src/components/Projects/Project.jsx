@@ -20,6 +20,9 @@ const Project = () => {
               <SiGithub />
             </a>
           </div>
+          <div className="live">
+            <a href="/">*View live project* </a>
+          </div>
         </div>
         <div className="project">
           <a href="https://github.com/BigVeezus/amazon-clone-react.git">
@@ -35,6 +38,9 @@ const Project = () => {
               <SiGithub />
             </a>
           </div>
+          <div className="live">
+            <a href="/">*View live project* </a>
+          </div>
         </div>
         <div className="project">
           <a href="https://github.com/BigVeezus/React-Monster-app.git">
@@ -49,17 +55,54 @@ const Project = () => {
               <SiGithub />
             </a>
           </div>
+          <div className="live">
+            <a href="/">*View live project* </a>
+          </div>
         </div>
         <div className="project">
-          <a href="https://github.com/BigVeezus/Quote-Generator.git">
-            Quote Generator
+          <a href="https://github.com/BigVeezus/Login-ForgotPasswordSys-mySql.git">
+            Secured PHP Log-in System
           </a>
-          <p className="tech">HTML 5, CSS, Javascript</p>
+          <p className="tech">PHP, CSS, MySQL</p>
           <p className="info">
-            Basic quote generator calling quotes from an API
+            Well secured login & forgot password system using PHP and MySQL and
+            sessions.
           </p>
           <div className="icons">
-            <a href="https://github.com/BigVeezus/Quote-Generator.git">
+            <a href="https://github.com/BigVeezus/Login-ForgotPasswordSys-mySql.git">
+              <SiGithub />
+            </a>
+          </div>
+          <div className="live">
+            <a href="/">*View live project* </a>
+          </div>
+        </div>
+        <div className="project">
+          <a href="https://github.com/BigVeezus/santa-tracking-app-nextjs.git">
+            Santa-Tracking APP
+          </a>
+          <p className="tech">React.js Leaflet, Next.js</p>
+          <p className="info">
+            Santa's map tracker application showing Santas delivery and arrival
+            time
+          </p>
+          <div className="icons">
+            <a href="https://github.com/BigVeezus/santa-tracking-app-nextjs.git">
+              <SiGithub />
+            </a>
+          </div>
+        </div>
+        <div className="project">
+          <a href="https://github.com/BigVeezus/BivasReplica-Election-API.git">
+            BVAS Clone Election System
+          </a>
+          <p className="tech">Typescript,Node, CSS, MySQL</p>
+          <p className="info">
+            A General Election App where polling units upload votes data from a
+            CSV file to the database.
+          </p>
+          <div className="icons">
+            <a href="https://github.com/BigVeezus/BivasReplica-Election-API.git">
               <SiGithub />
             </a>
           </div>
