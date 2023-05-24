@@ -29,7 +29,7 @@ const Project = () => {
 
         <div className="project">
           <a href="https://github.com/BigVeezus/Movies-API">Movies API</a>
-          <p className="tech">Node.Js, MongoDB, Express, Node Doctor</p>
+          <p className="tech">Node.Js, MongoDB, Express</p>
           <p className="info">
             Users can add Movies,perform CRUD operations and sort movies
             according to ratings, years etc.
@@ -48,12 +48,12 @@ const Project = () => {
 
         <div className="project">
           <a href="https://github.com/BigVeezus/gCloud-Nextjs-ticketify-app">
-            Ticket API Micro-services project
+            Ticket API project
           </a>
-          <p className="tech">Typescript, NATS, Node, Nextjs, MongoDB</p>
+          <p className="tech">Typescript, NATS, Node, Nextjs</p>
           <p className="info">
-            Ticket app that allows users purchase tickets to events - Built with
-            Next.js & Microservices. Stripe Payment system.
+            Microservices Ticket app that allows users purchase tickets to
+            events - Stripe Payment system.
           </p>
           <div className="icons">
             <a href="https://github.com/BigVeezus/gCloud-Nextjs-ticketify-app">
