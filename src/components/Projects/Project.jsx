@@ -12,7 +12,7 @@ const Project = () => {
           </a>
           <p className="tech">Node.Js, MongoDB, Express</p>
           <p className="info">
-            API used to show hotel locations around the map, users can peform
+            API used to show hotel locations around the map, users can perform
             basic CRUD operations.
           </p>
           <div className="icons">
@@ -21,9 +21,48 @@ const Project = () => {
             </a>
           </div>
           <div className="live">
-            <a href="/">View live project </a>
+            <a href="https://check-inn-git-main-bigveezus.vercel.app/">
+              View live project
+            </a>
           </div>
         </div>
+
+        <div className="project">
+          <a href="https://github.com/BigVeezus/Movies-API">Movies API</a>
+          <p className="tech">Node.Js, MongoDB, Express, Node Doctor</p>
+          <p className="info">
+            Users can add Movies,perform CRUD operations and sort movies
+            according to ratings, years etc.
+          </p>
+          <div className="icons">
+            <a href="https://movies-api-bigveezus.vercel.app/">
+              <SiGithub />
+            </a>
+          </div>
+          <div className="live">
+            <a href="https://check-inn-git-main-bigveezus.vercel.app/">
+              View live project
+            </a>
+          </div>
+        </div>
+
+        <div className="project">
+          <a href="https://github.com/BigVeezus/gCloud-Nextjs-ticketify-app">
+            Ticket API Micro-services project
+          </a>
+          <p className="tech">Typescript, NATS, Node, Nextjs, MongoDB, Jest</p>
+          <p className="info">
+            icket app that allows users purchase tickets to events - Built with
+            Next.js & Microservices deployed to Google Cloud. Payment system
+            handled by stripe.
+          </p>
+          <div className="icons">
+            <a href="https://github.com/BigVeezus/gCloud-Nextjs-ticketify-app">
+              <SiGithub />
+            </a>
+          </div>
+        </div>
+
         <div className="project">
           <a href="https://github.com/BigVeezus/amazon-clone-react.git">
             E-commerce Website
@@ -81,6 +120,21 @@ const Project = () => {
             </a>
           </div>
         </div>
+
+        <div className="project">
+          <a href="https://github.com/BigVeezus/NodeCrawler">NodeCrawler</a>
+          <p className="tech">Javascript</p>
+          <p className="info">
+            A scrapping bot that generates internal links & open assessable API
+            report for any website by crawling every page.
+          </p>
+          <div className="icons">
+            <a href="https://github.com/BigVeezus/NodeCrawler">
+              <SiGithub />
+            </a>
+          </div>
+        </div>
+
         <div className="project">
           <a href="https://github.com/BigVeezus/santa-tracking-app-nextjs.git">
             Santa-Tracking APP
@@ -97,16 +151,16 @@ const Project = () => {
           </div>
         </div>
         <div className="project">
-          <a href="https://github.com/BigVeezus/BivasReplica-Election-API.git">
-            BVAS Clone Election System
+          <a href="https://github.com/BigVeezus/My-CLI">
+            GO REPL Command line tool
           </a>
-          <p className="tech">Typescript,Node, CSS, MySQL</p>
+          <p className="tech">Go lang</p>
           <p className="info">
-            A General Election App where polling units upload votes data from a
-            CSV file to the database.
+            A Go command line tool that contains several API of my information
+            and also includes fun games
           </p>
           <div className="icons">
-            <a href="https://github.com/BigVeezus/BivasReplica-Election-API.git">
+            <a href="https://github.com/BigVeezus/My-CLI">
               <SiGithub />
             </a>
           </div>
