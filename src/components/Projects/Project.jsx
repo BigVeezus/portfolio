@@ -31,8 +31,8 @@ const Project = () => {
           <a href="https://github.com/BigVeezus/Movies-API">Movies API</a>
           <p className="tech">Node.Js, MongoDB, Express</p>
           <p className="info">
-            Users can add Movies,perform CRUD operations and sort movies
-            according to ratings, years etc.
+            Users can perform CRUD operations and sort movies by rating, genre
+            etc.
           </p>
           <div className="icons">
             <a href="https://movies-api-bigveezus.vercel.app/">
