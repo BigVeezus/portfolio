@@ -50,14 +50,45 @@ const Project = () => {
           <a href="https://github.com/BigVeezus/gCloud-Nextjs-ticketify-app">
             Ticket API Micro-services project
           </a>
-          <p className="tech">Typescript, NATS, Node, Nextjs, MongoDB, Jest</p>
+          <p className="tech">Typescript, NATS, Node, Nextjs, MongoDB</p>
           <p className="info">
-            icket app that allows users purchase tickets to events - Built with
-            Next.js & Microservices deployed to Google Cloud. Payment system
-            handled by stripe.
+            Ticket app that allows users purchase tickets to events - Built with
+            Next.js & Microservices. Stripe Payment system.
           </p>
           <div className="icons">
             <a href="https://github.com/BigVeezus/gCloud-Nextjs-ticketify-app">
+              <SiGithub />
+            </a>
+          </div>
+        </div>
+
+        <div className="project">
+          <a href="https://github.com/BigVeezus/My-CLI">
+            GO REPL Command line tool
+          </a>
+          <p className="tech">Go lang</p>
+          <p className="info">
+            A Go command line tool that contains several API of my information
+            and also includes fun games
+          </p>
+          <div className="icons">
+            <a href="https://github.com/BigVeezus/My-CLI">
+              <SiGithub />
+            </a>
+          </div>
+        </div>
+
+        <div className="project">
+          <a href="https://github.com/BigVeezus/graphQL-project-management-system">
+            Project Management system
+          </a>
+          <p className="tech">GraphQL, React, Nodejs</p>
+          <p className="info">
+            Project management system that helps users track progress of various
+            client projects and sends them about progress by mail.
+          </p>
+          <div className="icons">
+            <a href="https://github.com/BigVeezus/graphQL-project-management-system">
               <SiGithub />
             </a>
           </div>
@@ -81,6 +112,7 @@ const Project = () => {
             <a href="https://elvisshop.netlify.app">View live project </a>
           </div>
         </div>
+
         <div className="project">
           <a href="https://github.com/BigVeezus/React-Monster-app.git">
             Monster Cards API
@@ -146,21 +178,6 @@ const Project = () => {
           </p>
           <div className="icons">
             <a href="https://github.com/BigVeezus/santa-tracking-app-nextjs.git">
-              <SiGithub />
-            </a>
-          </div>
-        </div>
-        <div className="project">
-          <a href="https://github.com/BigVeezus/My-CLI">
-            GO REPL Command line tool
-          </a>
-          <p className="tech">Go lang</p>
-          <p className="info">
-            A Go command line tool that contains several API of my information
-            and also includes fun games
-          </p>
-          <div className="icons">
-            <a href="https://github.com/BigVeezus/My-CLI">
               <SiGithub />
             </a>
           </div>
